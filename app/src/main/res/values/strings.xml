@@ -402,4 +402,10 @@
     <string name="battery_optimization_title">For this app to work better, please allow it to run in the background</string>
     <string name="battery_optimization_description">Allowing the app to run in the background means the app can send you up-to-date alerts to have the latest information and guidance.\n\nWe do not expect this to cause a significant decrease in your device’s battery life.\n\nYou can always change this later by going to Prioritised Background Activity in settings.\n\nIf you do not allow, we recommend you to open the app manually at least once every 24 hours.</string>
     <string name="battery_optimization_allow">Allow</string>
+    <string name="about_my_data_symptoms_date">Date</string>
+    <string name="apply_now">Apply now</string>
+    <string name="isolation_payment">Isolation payment</string>
+    <string name="title_encounter">Encounter date</string>
+
+    <string name="widget_desc">Tier Two in (High Alert)</string>
 </resources>

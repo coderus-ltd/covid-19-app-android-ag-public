@@ -228,6 +228,7 @@ dependencies {
 
     implementation 'com.google.android.play:core:1.8.0'
     implementation 'com.google.android.play:core-ktx:1.8.1'
+    implementation 'com.google.android.gms:play-services-location:17.1.0'
 
     api 'io.jsonwebtoken:jjwt-api:0.11.2'
     runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.11.2'
